@@ -17,7 +17,7 @@ If you want to reproduce the other files, type `make`.
 You need to install some tools (see the Makefile for more information).
 ```
 > sudo pip install xml2rfc
-> gem install kramdown-rfc2629
+> sudo gem install kramdown-rfc2629
 ```
 
 You can also use a prototype [web version](http://ipv.sx/draftr/) of these tools.
